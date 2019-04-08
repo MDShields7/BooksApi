@@ -1,0 +1,6 @@
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csproj.CoreCompileInputs.cache
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/Users/matthewshields/Documents/Code/MxGroup/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
